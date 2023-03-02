@@ -39,7 +39,7 @@ And then install cwx from source:
 ::
 
     git clone https://github.com/klr324/cwx.git
-    pip install cwx/
+    pip3 install cwx/
 
 .. _matplotlib: https://matplotlib.org/
 .. _netcdf4: https://github.com/Unidata/netcdf4-python
